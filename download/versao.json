@@ -1,11 +1,11 @@
 {
-  "versao": "1.8.1",
+  "versao": "1.9.0",
   "data": "2026-11-11",
   "arquivos": [
     {
       "caminho": "bin/64bit/obsplay.dll",
       "baixar": "obsplay.dll",
-      "sha256": "356773698a26376d51c553eadd1cfafe533ea0a9050efc2a08007be21c45e27e"
+      "sha256": "2f9c0e85e4df0cdb0be75989cd4fbef10e86d72af48ece73359ea715c8785f5e"
     }
   ]
 }
