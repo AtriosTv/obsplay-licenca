@@ -1,20 +1,14 @@
 {
-  "versao": "1.18.0",
+  "versao": "1.18.1",
   "novidades": [
-    "Novo Pacote Esportes (bônus): GCs para transmissão de futebol de campo e futsal, na nova aba \"Esportes\" da página do GC.",
-    "Placar no canto da tela com relógio, acréscimos, período, faltas acumuladas do futsal e pênaltis.",
-    "Times salvos com escudo, cores, técnico e elenco, prontos para o próximo jogo (com opção de limpar a escalação).",
-    "GCs de apresentação do jogo, escalação dos dois times em sequência, arbitragem, gol, cartões, substituição, acréscimos e resultado, em 3 modelos: Arena, Clássico e Minimal.",
-    "Cada botão de GC coloca e tira o GC do ar e fica vermelho enquanto ele está no ar; \"Limpar todos os GCs\" tira o GC e o placar de uma vez.",
-    "Os pacotes Igreja e Esportes agora vêm como bônus em todas as licenças; ligue ou desligue cada um em Configurações → Pacotes.",
-    "Depois de cada atualização, o playoutbr mostra uma janela com as novidades da versão."
+    "playoutbr atualizado."
   ],
-  "data": "2026-11-16",
+  "data": "2026-11-21",
   "arquivos": [
     {
       "caminho": "bin/64bit/obsplay.dll",
       "baixar": "obsplay.dll",
-      "sha256": "45b9753204b89f3061ae0354ed15e252c425ebf544b0ef33f863c5fbf143b4ef"
+      "sha256": "ac826fde6a281fd49e4bdd5d892b7c56f23dff6dc1bb7b79928dabc1fb2689bc"
     }
   ]
 }
